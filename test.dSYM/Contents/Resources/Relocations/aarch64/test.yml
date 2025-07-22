@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ikea48/Coding Projects/C++ Project/test'
+relocations:     []
+...
